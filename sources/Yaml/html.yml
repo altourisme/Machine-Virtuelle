@@ -1,0 +1,13 @@
+input-file: 
+- ./sources/Markdown/rapport.md 
+- ./sources/Markdown/Rapport_Part2.md
+- ./sources/Markdown/Rapport_Part3.md
+css: ./sources/css/Style.css
+toc: true
+title-prefix: HTML-Version
+standalone: true
+reference-links: true
+reference-location: block
+default-image-extension: '.png'
+highlight-style: zenburn
+output-file: ./Compte_Rendu.html

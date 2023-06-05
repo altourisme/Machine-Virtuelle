@@ -1,0 +1,7 @@
+input-file: 
+- ./sources/Markdown/rapport.md 
+- ./sources/Markdown/Rapport_Part2.md
+- ./sources/Markdown/Rapport_Part3.md
+toc: true
+highlight-style: zenburn
+output-file: Compte_Rendu.pdf
